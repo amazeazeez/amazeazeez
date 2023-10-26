@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amazeazeez
 - 👀 I’m interested in Business, Data Intelligence
 - 🌱 I’m always learning new stuff
-- 💞️ I’m looking to collaborate on Python, Javascript, C#.
+- 💞️ I’m looking to collaborate on Python, R, Javascript, and C#.
 - 📫 How to reach me a.azeez.rf@gmail.com
 
 <!---
